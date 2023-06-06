@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Scanning
+Exec=python3 '/home/pi/Desktop/3D Scanning/scanner.py'
+Terminal=false
+Type=Application
